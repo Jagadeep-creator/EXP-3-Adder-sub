@@ -18,10 +18,12 @@ half_add_sub.v	Arithmetic-circuit RTL
 half_add_sub_tb.v	Stimulus and VCD generation
 
 ### Verilog Program
-```
-```
+
+ <img width="1906" height="1073" alt="Screenshot 2026-11-26 075104" src="https://github.com/user-attachments/assets/ccc8da84-c264-4e47-b149-84388999a4a8" />
+
 ### Testbench Program
 
+<img width="1917" height="1077" alt="Screenshot 2026-11-26 075113" src="https://github.com/user-attachments/assets/f7ccb2ab-47ed-4dfe-8b4b-1e1efa3a676f" />
 
 ### Truth Table
 
@@ -87,25 +89,7 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 <img width="1917" height="1040" alt="Screenshot 2026-11-25 105416" src="https://github.com/user-attachments/assets/af9fe3fb-c1ee-46d0-bb55-bfe673fd72f9" />
 
 
-### Viva-Voce Questions
 
-•	What is a Half Adder, and what are its limitations compared to a Full Adder?
-
-•	What is a Half Subtractor, and what does the Borrow output signify?
-
-•	Why is the Sum/Difference expression identical (A⊕B) for both circuits, while Carry and Borrow differ?
-
-•	What gate realizes the XOR function, and why is it central to both circuits?
-
-•	What is the purpose of a Verilog testbench?
-
-•	Why is a VCD file generated, and what does $dumpvars(0, tb) do?
-
-•	What is the purpose of ./simv?
-
-•	What is the difference between simulation and synthesis?
-
-•	How would you extend this design to a Full Adder/Full Subtractor?
 
 ### Result
 
